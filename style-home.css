@@ -1,0 +1,79 @@
+header {
+  background: white;
+  padding: 20px 0;
+}
+
+.caixa {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
+
+body {
+  background: lightgray;
+}
+nav li {
+  display: inline;
+  margin: 0 0 0 18px;
+}
+
+nav {
+  position: absolute;
+  top: 110px;
+  right: 100px;
+
+}
+
+nav a {
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+h2 {
+  position: absolute;
+width: 624px;
+height: 598px;
+left: 37px;
+top: 206px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+color: #000000;
+
+}
+
+h3 {
+  position: absolute;
+width: 174px;
+height: 76px;
+left: 45px;
+top: 837px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+.alunos li {
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+  vertical-align: top;
+  margin: 2% 1.5%;
+  padding: 30px 20px;
+  box-sizing: border-box;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: #87CEEB;
+}
