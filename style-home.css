@@ -33,11 +33,11 @@ nav a {
 }
 
 h2 {
-  position: absolute;
+  position: relative;
 width: 624px;
 height: 598px;
 left: 37px;
-top: 206px;
+
 
 font-family: 'Inter';
 font-style: normal;
@@ -53,7 +53,7 @@ h3 {
 width: 174px;
 height: 76px;
 left: 45px;
-top: 837px;
+
 
 font-family: 'Inter';
 font-style: normal;
